@@ -1,0 +1,3 @@
+D:/jxx/myproject/cpp/cpp primer/cmake-build-debug-mingw-for-cpp/CMakeFiles/cpp_primer.dir
+D:/jxx/myproject/cpp/cpp primer/cmake-build-debug-mingw-for-cpp/CMakeFiles/edit_cache.dir
+D:/jxx/myproject/cpp/cpp primer/cmake-build-debug-mingw-for-cpp/CMakeFiles/rebuild_cache.dir
